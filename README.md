@@ -1,0 +1,1 @@
+Repositorio con el fin de documentar el avanze en el análisis de datos con el objetivo de desarrollar un análisis de datos clínicos radiológicos de crecimiento tumoral para crear un modelo predictivo basado bayesiano con Monte Carlo y Cadenas de Markov.
